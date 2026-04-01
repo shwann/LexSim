@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="./static/image/shanda_logo_compressed.png" alt="Shanda" width="75%"/>
-
+<img src="./static/image/logo.png" alt="Shanda" width="75%"/>
+</div>
 ⚖ AI 驱动 · 法律庭审模拟平台
 </br>
 <em>AI-Powered Legal Court Simulation Platform</em>
@@ -44,15 +43,15 @@
 
 <div align="center">
 
-<img src="./static/image/001.jpg" alt="Shanda" width="75%"/>
-<img src="./static/image/002.jpg" alt="Shanda" width="75%"/>
-<img src="./static/image/003.jpg" alt="Shanda" width="75%"/>
-<img src="./static/image/004.jpg" alt="Shanda" width="75%"/>
-<img src="./static/image/005.jpg" alt="Shanda" width="75%"/>
-<img src="./static/image/006.jpg" alt="Shanda" width="75%"/>
-<img src="./static/image/007.jpg" alt="Shanda" width="75%"/>
-<img src="./static/image/008.jpg" alt="Shanda" width="75%"/>
-<img src="./static/image/009.jpg" alt="Shanda" width="75%"/>
+<img src="./static/image/001.jpg" alt="Shanda" width="100%"/>
+<img src="./static/image/002.jpg" alt="Shanda" width="100%"/>
+<img src="./static/image/003.jpg" alt="Shanda" width="100%"/>
+<img src="./static/image/004.jpg" alt="Shanda" width="100%"/>
+<img src="./static/image/005.jpg" alt="Shanda" width="100%"/>
+<img src="./static/image/006.jpg" alt="Shanda" width="100%"/>
+<img src="./static/image/007.jpg" alt="Shanda" width="100%"/>
+<img src="./static/image/008.jpg" alt="Shanda" width="100%"/>
+<img src="./static/image/009.jpg" alt="Shanda" width="100%"/>
 
 </div>
 
@@ -124,4 +123,4 @@ docker compose up -d
 
 ## 📄 致谢
 
-LexSim 是由MiroFish项目启示。引擎由 **[OASIS](https://github.com/camel-ai/oasis)** 驱动，衷心感谢 CAMEL-AI 团队的开源贡献！
+LexSim 是由MiroFish项目启示,MiroFish。引擎由 **[OASIS](https://github.com/camel-ai/oasis)** 驱动，衷心感谢 CAMEL-AI 团队的开源贡献！

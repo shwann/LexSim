@@ -1,5 +1,5 @@
 services:
-  mirofish:
+  lexsim:
     build:
       context: .
       dockerfile: Dockerfile
