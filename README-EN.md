@@ -117,6 +117,3 @@ docker compose up -d
 
 Maps ports `3000 (frontend) / 5001 (backend)` by default. Mirror addresses for faster image pulling are provided as comments in `docker-compose.yml`.
 
-## 📄 Acknowledgments
-
-LexSim's simulation engine is powered by **[OASIS (Open Agent Social Interaction Simulations)](https://github.com/camel-ai/oasis)**. We sincerely thank the CAMEL-AI team for their open-source contributions!

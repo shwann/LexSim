@@ -123,4 +123,4 @@ docker compose up -d
 
 ## 📄 致谢
 
-LexSim 是由MiroFish项目启示,MiroFish。引擎由 **[OASIS](https://github.com/camel-ai/oasis)** 驱动，衷心感谢 CAMEL-AI 团队的开源贡献！
+LexSim 诞生于对 MiroFish 项目的深度思考，旨在打造法律领域的专业智能体。我们基于 OASIS 引擎进行开发，充分复用其强大的多智能体交互能力。引擎由 **[OASIS](https://github.com/camel-ai/oasis)** 驱动，衷心感谢 CAMEL-AI 团队的开源贡献！
