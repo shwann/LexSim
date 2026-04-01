@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./static/image/logo.png" alt="Shanda" width="75%"/>
+<img src="./static/image/logo.png" alt="Shanda" width="30%"/>
 </div>   
 ⚖ AI-Powered Legal Court Simulation Platform
 
